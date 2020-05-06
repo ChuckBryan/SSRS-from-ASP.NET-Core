@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportServerPortalPoc", "ReportServerPortalPoc\ReportServerPortalPoc.csproj", "{36E5A580-908A-4E7D-BF16-E6C72862E8BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36E5A580-908A-4E7D-BF16-E6C72862E8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E5A580-908A-4E7D-BF16-E6C72862E8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E5A580-908A-4E7D-BF16-E6C72862E8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E5A580-908A-4E7D-BF16-E6C72862E8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B094F77D-7367-4B5B-8035-9B2F9E9959C2}
+	EndGlobalSection
+EndGlobal
